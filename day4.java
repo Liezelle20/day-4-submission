@@ -6,7 +6,6 @@ public class day4 {
 
         int i = 1;
         int sum = 0;
-        ;
         while (i <= 5) {
 
             Scanner sc = new Scanner(System.in);
